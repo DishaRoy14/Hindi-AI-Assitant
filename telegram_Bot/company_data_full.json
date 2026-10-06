@@ -1,0 +1,3319 @@
+{
+  "metadata": {
+    "generated_at": "2026-10-01T17:59:58.708222",
+    "counts": {
+      "employees": 100,
+      "clients": 100,
+      "invoices": 100,
+      "tasks": 100
+    }
+  },
+  "employees": [
+    {
+      "emp_id": "EMP001",
+      "name": "Rahul Sharma",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90001"
+    },
+    {
+      "emp_id": "EMP002",
+      "name": "Pooja Singh",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90002"
+    },
+    {
+      "emp_id": "EMP003",
+      "name": "Amit Kumar",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90003"
+    },
+    {
+      "emp_id": "EMP004",
+      "name": "Neha Reddy",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90004"
+    },
+    {
+      "emp_id": "EMP005",
+      "name": "Vikram Bose",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90005"
+    },
+    {
+      "emp_id": "EMP006",
+      "name": "Sneha Malhotra",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90006"
+    },
+    {
+      "emp_id": "EMP007",
+      "name": "Karan Mishra",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90007"
+    },
+    {
+      "emp_id": "EMP008",
+      "name": "Ananya Verma",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90008"
+    },
+    {
+      "emp_id": "EMP009",
+      "name": "Rohan Gupta",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90009"
+    },
+    {
+      "emp_id": "EMP010",
+      "name": "Priya Iyer",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90010"
+    },
+    {
+      "emp_id": "EMP011",
+      "name": "Manish Chopra",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90011"
+    },
+    {
+      "emp_id": "EMP012",
+      "name": "Kavita Dutta",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90012"
+    },
+    {
+      "emp_id": "EMP013",
+      "name": "Siddharth Kapoor",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90013"
+    },
+    {
+      "emp_id": "EMP014",
+      "name": "Ritu Pandey",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90014"
+    },
+    {
+      "emp_id": "EMP015",
+      "name": "Deepak Patel",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90015"
+    },
+    {
+      "emp_id": "EMP016",
+      "name": "Swati Mehta",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90016"
+    },
+    {
+      "emp_id": "EMP017",
+      "name": "Arjun Nair",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90017"
+    },
+    {
+      "emp_id": "EMP018",
+      "name": "Divya Joshi",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90018"
+    },
+    {
+      "emp_id": "EMP019",
+      "name": "Gaurav Mukherjee",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90019"
+    },
+    {
+      "emp_id": "EMP020",
+      "name": "Megha Chatterjee",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90020"
+    },
+    {
+      "emp_id": "EMP021",
+      "name": "Sanjay Sharma",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90021"
+    },
+    {
+      "emp_id": "EMP022",
+      "name": "Anjali Singh",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90022"
+    },
+    {
+      "emp_id": "EMP023",
+      "name": "Varun Kumar",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90023"
+    },
+    {
+      "emp_id": "EMP024",
+      "name": "Sunita Reddy",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90024"
+    },
+    {
+      "emp_id": "EMP025",
+      "name": "Rajesh Bose",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90025"
+    },
+    {
+      "emp_id": "EMP026",
+      "name": "Tanvi Malhotra",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90026"
+    },
+    {
+      "emp_id": "EMP027",
+      "name": "Naveen Mishra",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90027"
+    },
+    {
+      "emp_id": "EMP028",
+      "name": "Shreya Verma",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90028"
+    },
+    {
+      "emp_id": "EMP029",
+      "name": "Aditya Gupta",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90029"
+    },
+    {
+      "emp_id": "EMP030",
+      "name": "Preeti Iyer",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90030"
+    },
+    {
+      "emp_id": "EMP031",
+      "name": "Abhishek Chopra",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90031"
+    },
+    {
+      "emp_id": "EMP032",
+      "name": "Aparna Dutta",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90032"
+    },
+    {
+      "emp_id": "EMP033",
+      "name": "Harish Kapoor",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90033"
+    },
+    {
+      "emp_id": "EMP034",
+      "name": "Isha Pandey",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90034"
+    },
+    {
+      "emp_id": "EMP035",
+      "name": "Manoj Patel",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90035"
+    },
+    {
+      "emp_id": "EMP036",
+      "name": "Kiran Mehta",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90036"
+    },
+    {
+      "emp_id": "EMP037",
+      "name": "Sachin Nair",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90037"
+    },
+    {
+      "emp_id": "EMP038",
+      "name": "Bhavna Joshi",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90038"
+    },
+    {
+      "emp_id": "EMP039",
+      "name": "Alok Mukherjee",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90039"
+    },
+    {
+      "emp_id": "EMP040",
+      "name": "Rashmi Chatterjee",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90040"
+    },
+    {
+      "emp_id": "EMP041",
+      "name": "Rahul Sharma",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90041"
+    },
+    {
+      "emp_id": "EMP042",
+      "name": "Pooja Singh",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90042"
+    },
+    {
+      "emp_id": "EMP043",
+      "name": "Amit Kumar",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90043"
+    },
+    {
+      "emp_id": "EMP044",
+      "name": "Neha Reddy",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90044"
+    },
+    {
+      "emp_id": "EMP045",
+      "name": "Vikram Bose",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90045"
+    },
+    {
+      "emp_id": "EMP046",
+      "name": "Sneha Malhotra",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90046"
+    },
+    {
+      "emp_id": "EMP047",
+      "name": "Karan Mishra",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90047"
+    },
+    {
+      "emp_id": "EMP048",
+      "name": "Ananya Verma",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90048"
+    },
+    {
+      "emp_id": "EMP049",
+      "name": "Rohan Gupta",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90049"
+    },
+    {
+      "emp_id": "EMP050",
+      "name": "Priya Iyer",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90050"
+    },
+    {
+      "emp_id": "EMP051",
+      "name": "Manish Chopra",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90051"
+    },
+    {
+      "emp_id": "EMP052",
+      "name": "Kavita Dutta",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90052"
+    },
+    {
+      "emp_id": "EMP053",
+      "name": "Siddharth Kapoor",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90053"
+    },
+    {
+      "emp_id": "EMP054",
+      "name": "Ritu Pandey",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90054"
+    },
+    {
+      "emp_id": "EMP055",
+      "name": "Deepak Patel",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90055"
+    },
+    {
+      "emp_id": "EMP056",
+      "name": "Swati Mehta",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90056"
+    },
+    {
+      "emp_id": "EMP057",
+      "name": "Arjun Nair",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90057"
+    },
+    {
+      "emp_id": "EMP058",
+      "name": "Divya Joshi",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90058"
+    },
+    {
+      "emp_id": "EMP059",
+      "name": "Gaurav Mukherjee",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90059"
+    },
+    {
+      "emp_id": "EMP060",
+      "name": "Megha Chatterjee",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90060"
+    },
+    {
+      "emp_id": "EMP061",
+      "name": "Sanjay Sharma",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90061"
+    },
+    {
+      "emp_id": "EMP062",
+      "name": "Anjali Singh",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90062"
+    },
+    {
+      "emp_id": "EMP063",
+      "name": "Varun Kumar",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90063"
+    },
+    {
+      "emp_id": "EMP064",
+      "name": "Sunita Reddy",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90064"
+    },
+    {
+      "emp_id": "EMP065",
+      "name": "Rajesh Bose",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90065"
+    },
+    {
+      "emp_id": "EMP066",
+      "name": "Tanvi Malhotra",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90066"
+    },
+    {
+      "emp_id": "EMP067",
+      "name": "Naveen Mishra",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90067"
+    },
+    {
+      "emp_id": "EMP068",
+      "name": "Shreya Verma",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90068"
+    },
+    {
+      "emp_id": "EMP069",
+      "name": "Aditya Gupta",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90069"
+    },
+    {
+      "emp_id": "EMP070",
+      "name": "Preeti Iyer",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90070"
+    },
+    {
+      "emp_id": "EMP071",
+      "name": "Abhishek Chopra",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90071"
+    },
+    {
+      "emp_id": "EMP072",
+      "name": "Aparna Dutta",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90072"
+    },
+    {
+      "emp_id": "EMP073",
+      "name": "Harish Kapoor",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90073"
+    },
+    {
+      "emp_id": "EMP074",
+      "name": "Isha Pandey",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90074"
+    },
+    {
+      "emp_id": "EMP075",
+      "name": "Manoj Patel",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90075"
+    },
+    {
+      "emp_id": "EMP076",
+      "name": "Kiran Mehta",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90076"
+    },
+    {
+      "emp_id": "EMP077",
+      "name": "Sachin Nair",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90077"
+    },
+    {
+      "emp_id": "EMP078",
+      "name": "Bhavna Joshi",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90078"
+    },
+    {
+      "emp_id": "EMP079",
+      "name": "Alok Mukherjee",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90079"
+    },
+    {
+      "emp_id": "EMP080",
+      "name": "Rashmi Chatterjee",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90080"
+    },
+    {
+      "emp_id": "EMP081",
+      "name": "Rahul Sharma",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90081"
+    },
+    {
+      "emp_id": "EMP082",
+      "name": "Pooja Singh",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90082"
+    },
+    {
+      "emp_id": "EMP083",
+      "name": "Amit Kumar",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90083"
+    },
+    {
+      "emp_id": "EMP084",
+      "name": "Neha Reddy",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90084"
+    },
+    {
+      "emp_id": "EMP085",
+      "name": "Vikram Bose",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90085"
+    },
+    {
+      "emp_id": "EMP086",
+      "name": "Sneha Malhotra",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90086"
+    },
+    {
+      "emp_id": "EMP087",
+      "name": "Karan Mishra",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90087"
+    },
+    {
+      "emp_id": "EMP088",
+      "name": "Ananya Verma",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90088"
+    },
+    {
+      "emp_id": "EMP089",
+      "name": "Rohan Gupta",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90089"
+    },
+    {
+      "emp_id": "EMP090",
+      "name": "Priya Iyer",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90090"
+    },
+    {
+      "emp_id": "EMP091",
+      "name": "Manish Chopra",
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "telegram_chat_id": "tg_chat_90091"
+    },
+    {
+      "emp_id": "EMP092",
+      "name": "Kavita Dutta",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "telegram_chat_id": "tg_chat_90092"
+    },
+    {
+      "emp_id": "EMP093",
+      "name": "Siddharth Kapoor",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "telegram_chat_id": "tg_chat_90093"
+    },
+    {
+      "emp_id": "EMP094",
+      "name": "Ritu Pandey",
+      "department": "Design",
+      "role": "UI/UX Designer",
+      "telegram_chat_id": "tg_chat_90094"
+    },
+    {
+      "emp_id": "EMP095",
+      "name": "Deepak Patel",
+      "department": "Design",
+      "role": "Product Designer",
+      "telegram_chat_id": "tg_chat_90095"
+    },
+    {
+      "emp_id": "EMP096",
+      "name": "Swati Mehta",
+      "department": "Accounts",
+      "role": "Finance Executive",
+      "telegram_chat_id": "tg_chat_90096"
+    },
+    {
+      "emp_id": "EMP097",
+      "name": "Arjun Nair",
+      "department": "Accounts",
+      "role": "Senior Accountant",
+      "telegram_chat_id": "tg_chat_90097"
+    },
+    {
+      "emp_id": "EMP098",
+      "name": "Divya Joshi",
+      "department": "Sales",
+      "role": "Account Manager",
+      "telegram_chat_id": "tg_chat_90098"
+    },
+    {
+      "emp_id": "EMP099",
+      "name": "Gaurav Mukherjee",
+      "department": "Sales",
+      "role": "Business Development Executive",
+      "telegram_chat_id": "tg_chat_90099"
+    },
+    {
+      "emp_id": "EMP100",
+      "name": "Megha Chatterjee",
+      "department": "Operations",
+      "role": "Operations Lead",
+      "telegram_chat_id": "tg_chat_90100"
+    }
+  ],
+  "clients": [
+    {
+      "client_id": "CLI001",
+      "name": "Apex Tech Solutions Pvt Ltd",
+      "contact_person": "Amit Patel"
+    },
+    {
+      "client_id": "CLI002",
+      "name": "Zenith Enterprises Pvt Ltd",
+      "contact_person": "Vikram Gupta"
+    },
+    {
+      "client_id": "CLI003",
+      "name": "Bharat Logistics Pvt Ltd",
+      "contact_person": "Karan Kumar"
+    },
+    {
+      "client_id": "CLI004",
+      "name": "BlueWave Media Works Pvt Ltd",
+      "contact_person": "Rohan Nair"
+    },
+    {
+      "client_id": "CLI005",
+      "name": "Nexus FinTech Pvt Ltd",
+      "contact_person": "Manish Chopra"
+    },
+    {
+      "client_id": "CLI006",
+      "name": "GreenEarth Retail Pvt Ltd",
+      "contact_person": "Siddharth Bose"
+    },
+    {
+      "client_id": "CLI007",
+      "name": "Vedic Systems Pvt Ltd",
+      "contact_person": "Deepak Mukherjee"
+    },
+    {
+      "client_id": "CLI008",
+      "name": "Nova Infotech Pvt Ltd",
+      "contact_person": "Arjun Kapoor"
+    },
+    {
+      "client_id": "CLI009",
+      "name": "Urban Tech Solutions Pvt Ltd",
+      "contact_person": "Gaurav Mishra"
+    },
+    {
+      "client_id": "CLI010",
+      "name": "Metro Enterprises Pvt Ltd",
+      "contact_person": "Sanjay Sharma"
+    },
+    {
+      "client_id": "CLI011",
+      "name": "Kavya Logistics Pvt Ltd",
+      "contact_person": "Varun Patel"
+    },
+    {
+      "client_id": "CLI012",
+      "name": "Trident Media Works Pvt Ltd",
+      "contact_person": "Rajesh Gupta"
+    },
+    {
+      "client_id": "CLI013",
+      "name": "Sunrise FinTech Pvt Ltd",
+      "contact_person": "Naveen Kumar"
+    },
+    {
+      "client_id": "CLI014",
+      "name": "Delta Retail Pvt Ltd",
+      "contact_person": "Aditya Nair"
+    },
+    {
+      "client_id": "CLI015",
+      "name": "Prime Systems Pvt Ltd",
+      "contact_person": "Abhishek Chopra"
+    },
+    {
+      "client_id": "CLI016",
+      "name": "Summit Infotech Pvt Ltd",
+      "contact_person": "Harish Bose"
+    },
+    {
+      "client_id": "CLI017",
+      "name": "Horizon Tech Solutions Pvt Ltd",
+      "contact_person": "Manoj Mukherjee"
+    },
+    {
+      "client_id": "CLI018",
+      "name": "Pioneer Enterprises Pvt Ltd",
+      "contact_person": "Sachin Kapoor"
+    },
+    {
+      "client_id": "CLI019",
+      "name": "Quantum Logistics Pvt Ltd",
+      "contact_person": "Alok Mishra"
+    },
+    {
+      "client_id": "CLI020",
+      "name": "Omega Media Works Pvt Ltd",
+      "contact_person": "Rahul Sharma"
+    },
+    {
+      "client_id": "CLI021",
+      "name": "Imperial FinTech Pvt Ltd",
+      "contact_person": "Amit Patel"
+    },
+    {
+      "client_id": "CLI022",
+      "name": "Vanguard Retail Pvt Ltd",
+      "contact_person": "Vikram Gupta"
+    },
+    {
+      "client_id": "CLI023",
+      "name": "Starlight Systems Pvt Ltd",
+      "contact_person": "Karan Kumar"
+    },
+    {
+      "client_id": "CLI024",
+      "name": "Econ Infotech Pvt Ltd",
+      "contact_person": "Rohan Nair"
+    },
+    {
+      "client_id": "CLI025",
+      "name": "Falcon Tech Solutions Pvt Ltd",
+      "contact_person": "Manish Chopra"
+    },
+    {
+      "client_id": "CLI026",
+      "name": "Apex Enterprises Pvt Ltd",
+      "contact_person": "Siddharth Bose"
+    },
+    {
+      "client_id": "CLI027",
+      "name": "Zenith Logistics Pvt Ltd",
+      "contact_person": "Deepak Mukherjee"
+    },
+    {
+      "client_id": "CLI028",
+      "name": "Bharat Media Works Pvt Ltd",
+      "contact_person": "Arjun Kapoor"
+    },
+    {
+      "client_id": "CLI029",
+      "name": "BlueWave FinTech Pvt Ltd",
+      "contact_person": "Gaurav Mishra"
+    },
+    {
+      "client_id": "CLI030",
+      "name": "Nexus Retail Pvt Ltd",
+      "contact_person": "Sanjay Sharma"
+    },
+    {
+      "client_id": "CLI031",
+      "name": "GreenEarth Systems Pvt Ltd",
+      "contact_person": "Varun Patel"
+    },
+    {
+      "client_id": "CLI032",
+      "name": "Vedic Infotech Pvt Ltd",
+      "contact_person": "Rajesh Gupta"
+    },
+    {
+      "client_id": "CLI033",
+      "name": "Nova Tech Solutions Pvt Ltd",
+      "contact_person": "Naveen Kumar"
+    },
+    {
+      "client_id": "CLI034",
+      "name": "Urban Enterprises Pvt Ltd",
+      "contact_person": "Aditya Nair"
+    },
+    {
+      "client_id": "CLI035",
+      "name": "Metro Logistics Pvt Ltd",
+      "contact_person": "Abhishek Chopra"
+    },
+    {
+      "client_id": "CLI036",
+      "name": "Kavya Media Works Pvt Ltd",
+      "contact_person": "Harish Bose"
+    },
+    {
+      "client_id": "CLI037",
+      "name": "Trident FinTech Pvt Ltd",
+      "contact_person": "Manoj Mukherjee"
+    },
+    {
+      "client_id": "CLI038",
+      "name": "Sunrise Retail Pvt Ltd",
+      "contact_person": "Sachin Kapoor"
+    },
+    {
+      "client_id": "CLI039",
+      "name": "Delta Systems Pvt Ltd",
+      "contact_person": "Alok Mishra"
+    },
+    {
+      "client_id": "CLI040",
+      "name": "Prime Infotech Pvt Ltd",
+      "contact_person": "Rahul Sharma"
+    },
+    {
+      "client_id": "CLI041",
+      "name": "Summit Tech Solutions Pvt Ltd",
+      "contact_person": "Amit Patel"
+    },
+    {
+      "client_id": "CLI042",
+      "name": "Horizon Enterprises Pvt Ltd",
+      "contact_person": "Vikram Gupta"
+    },
+    {
+      "client_id": "CLI043",
+      "name": "Pioneer Logistics Pvt Ltd",
+      "contact_person": "Karan Kumar"
+    },
+    {
+      "client_id": "CLI044",
+      "name": "Quantum Media Works Pvt Ltd",
+      "contact_person": "Rohan Nair"
+    },
+    {
+      "client_id": "CLI045",
+      "name": "Omega FinTech Pvt Ltd",
+      "contact_person": "Manish Chopra"
+    },
+    {
+      "client_id": "CLI046",
+      "name": "Imperial Retail Pvt Ltd",
+      "contact_person": "Siddharth Bose"
+    },
+    {
+      "client_id": "CLI047",
+      "name": "Vanguard Systems Pvt Ltd",
+      "contact_person": "Deepak Mukherjee"
+    },
+    {
+      "client_id": "CLI048",
+      "name": "Starlight Infotech Pvt Ltd",
+      "contact_person": "Arjun Kapoor"
+    },
+    {
+      "client_id": "CLI049",
+      "name": "Econ Tech Solutions Pvt Ltd",
+      "contact_person": "Gaurav Mishra"
+    },
+    {
+      "client_id": "CLI050",
+      "name": "Falcon Enterprises Pvt Ltd",
+      "contact_person": "Sanjay Sharma"
+    },
+    {
+      "client_id": "CLI051",
+      "name": "Apex Group - Unit 1",
+      "contact_person": "Varun Patel"
+    },
+    {
+      "client_id": "CLI052",
+      "name": "Zenith Group - Unit 2",
+      "contact_person": "Rajesh Gupta"
+    },
+    {
+      "client_id": "CLI053",
+      "name": "Bharat Group - Unit 3",
+      "contact_person": "Naveen Kumar"
+    },
+    {
+      "client_id": "CLI054",
+      "name": "BlueWave Group - Unit 4",
+      "contact_person": "Aditya Nair"
+    },
+    {
+      "client_id": "CLI055",
+      "name": "Nexus Group - Unit 5",
+      "contact_person": "Abhishek Chopra"
+    },
+    {
+      "client_id": "CLI056",
+      "name": "GreenEarth Group - Unit 6",
+      "contact_person": "Harish Bose"
+    },
+    {
+      "client_id": "CLI057",
+      "name": "Vedic Group - Unit 7",
+      "contact_person": "Manoj Mukherjee"
+    },
+    {
+      "client_id": "CLI058",
+      "name": "Nova Group - Unit 8",
+      "contact_person": "Sachin Kapoor"
+    },
+    {
+      "client_id": "CLI059",
+      "name": "Urban Group - Unit 9",
+      "contact_person": "Alok Mishra"
+    },
+    {
+      "client_id": "CLI060",
+      "name": "Metro Group - Unit 10",
+      "contact_person": "Rahul Sharma"
+    },
+    {
+      "client_id": "CLI061",
+      "name": "Kavya Group - Unit 11",
+      "contact_person": "Amit Patel"
+    },
+    {
+      "client_id": "CLI062",
+      "name": "Trident Group - Unit 12",
+      "contact_person": "Vikram Gupta"
+    },
+    {
+      "client_id": "CLI063",
+      "name": "Sunrise Group - Unit 13",
+      "contact_person": "Karan Kumar"
+    },
+    {
+      "client_id": "CLI064",
+      "name": "Delta Group - Unit 14",
+      "contact_person": "Rohan Nair"
+    },
+    {
+      "client_id": "CLI065",
+      "name": "Prime Group - Unit 15",
+      "contact_person": "Manish Chopra"
+    },
+    {
+      "client_id": "CLI066",
+      "name": "Summit Group - Unit 16",
+      "contact_person": "Siddharth Bose"
+    },
+    {
+      "client_id": "CLI067",
+      "name": "Horizon Group - Unit 17",
+      "contact_person": "Deepak Mukherjee"
+    },
+    {
+      "client_id": "CLI068",
+      "name": "Pioneer Group - Unit 18",
+      "contact_person": "Arjun Kapoor"
+    },
+    {
+      "client_id": "CLI069",
+      "name": "Quantum Group - Unit 19",
+      "contact_person": "Gaurav Mishra"
+    },
+    {
+      "client_id": "CLI070",
+      "name": "Omega Group - Unit 20",
+      "contact_person": "Sanjay Sharma"
+    },
+    {
+      "client_id": "CLI071",
+      "name": "Imperial Group - Unit 21",
+      "contact_person": "Varun Patel"
+    },
+    {
+      "client_id": "CLI072",
+      "name": "Vanguard Group - Unit 22",
+      "contact_person": "Rajesh Gupta"
+    },
+    {
+      "client_id": "CLI073",
+      "name": "Starlight Group - Unit 23",
+      "contact_person": "Naveen Kumar"
+    },
+    {
+      "client_id": "CLI074",
+      "name": "Econ Group - Unit 24",
+      "contact_person": "Aditya Nair"
+    },
+    {
+      "client_id": "CLI075",
+      "name": "Falcon Group - Unit 25",
+      "contact_person": "Abhishek Chopra"
+    },
+    {
+      "client_id": "CLI076",
+      "name": "Apex Group - Unit 26",
+      "contact_person": "Harish Bose"
+    },
+    {
+      "client_id": "CLI077",
+      "name": "Zenith Group - Unit 27",
+      "contact_person": "Manoj Mukherjee"
+    },
+    {
+      "client_id": "CLI078",
+      "name": "Bharat Group - Unit 28",
+      "contact_person": "Sachin Kapoor"
+    },
+    {
+      "client_id": "CLI079",
+      "name": "BlueWave Group - Unit 29",
+      "contact_person": "Alok Mishra"
+    },
+    {
+      "client_id": "CLI080",
+      "name": "Nexus Group - Unit 30",
+      "contact_person": "Rahul Sharma"
+    },
+    {
+      "client_id": "CLI081",
+      "name": "GreenEarth Group - Unit 31",
+      "contact_person": "Amit Patel"
+    },
+    {
+      "client_id": "CLI082",
+      "name": "Vedic Group - Unit 32",
+      "contact_person": "Vikram Gupta"
+    },
+    {
+      "client_id": "CLI083",
+      "name": "Nova Group - Unit 33",
+      "contact_person": "Karan Kumar"
+    },
+    {
+      "client_id": "CLI084",
+      "name": "Urban Group - Unit 34",
+      "contact_person": "Rohan Nair"
+    },
+    {
+      "client_id": "CLI085",
+      "name": "Metro Group - Unit 35",
+      "contact_person": "Manish Chopra"
+    },
+    {
+      "client_id": "CLI086",
+      "name": "Kavya Group - Unit 36",
+      "contact_person": "Siddharth Bose"
+    },
+    {
+      "client_id": "CLI087",
+      "name": "Trident Group - Unit 37",
+      "contact_person": "Deepak Mukherjee"
+    },
+    {
+      "client_id": "CLI088",
+      "name": "Sunrise Group - Unit 38",
+      "contact_person": "Arjun Kapoor"
+    },
+    {
+      "client_id": "CLI089",
+      "name": "Delta Group - Unit 39",
+      "contact_person": "Gaurav Mishra"
+    },
+    {
+      "client_id": "CLI090",
+      "name": "Prime Group - Unit 40",
+      "contact_person": "Sanjay Sharma"
+    },
+    {
+      "client_id": "CLI091",
+      "name": "Summit Group - Unit 41",
+      "contact_person": "Varun Patel"
+    },
+    {
+      "client_id": "CLI092",
+      "name": "Horizon Group - Unit 42",
+      "contact_person": "Rajesh Gupta"
+    },
+    {
+      "client_id": "CLI093",
+      "name": "Pioneer Group - Unit 43",
+      "contact_person": "Naveen Kumar"
+    },
+    {
+      "client_id": "CLI094",
+      "name": "Quantum Group - Unit 44",
+      "contact_person": "Aditya Nair"
+    },
+    {
+      "client_id": "CLI095",
+      "name": "Omega Group - Unit 45",
+      "contact_person": "Abhishek Chopra"
+    },
+    {
+      "client_id": "CLI096",
+      "name": "Imperial Group - Unit 46",
+      "contact_person": "Harish Bose"
+    },
+    {
+      "client_id": "CLI097",
+      "name": "Vanguard Group - Unit 47",
+      "contact_person": "Manoj Mukherjee"
+    },
+    {
+      "client_id": "CLI098",
+      "name": "Starlight Group - Unit 48",
+      "contact_person": "Sachin Kapoor"
+    },
+    {
+      "client_id": "CLI099",
+      "name": "Econ Group - Unit 49",
+      "contact_person": "Alok Mishra"
+    },
+    {
+      "client_id": "CLI100",
+      "name": "Falcon Group - Unit 50",
+      "contact_person": "Rahul Sharma"
+    }
+  ],
+  "invoices": [
+    {
+      "invoice_id": "INV-1001",
+      "client_id": "CLI001",
+      "client_name": "Apex Tech Solutions Pvt Ltd",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 35000,
+      "due_date": "2026-10-28",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1002",
+      "client_id": "CLI002",
+      "client_name": "Zenith Enterprises Pvt Ltd",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 100000,
+      "due_date": "2026-09-22",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1003",
+      "client_id": "CLI003",
+      "client_name": "Bharat Logistics Pvt Ltd",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-03",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1004",
+      "client_id": "CLI004",
+      "client_name": "BlueWave Media Works Pvt Ltd",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 17500,
+      "due_amount_inr": 17500,
+      "due_date": "2026-10-28",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1005",
+      "client_id": "CLI005",
+      "client_name": "Nexus FinTech Pvt Ltd",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 350000,
+      "due_date": "2026-09-11",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1006",
+      "client_id": "CLI006",
+      "client_name": "GreenEarth Retail Pvt Ltd",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 150000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-25",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1007",
+      "client_id": "CLI007",
+      "client_name": "Vedic Systems Pvt Ltd",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 25000,
+      "due_date": "2026-10-11",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1008",
+      "client_id": "CLI008",
+      "client_name": "Nova Infotech Pvt Ltd",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 37500,
+      "due_date": "2026-09-10",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1009",
+      "client_id": "CLI009",
+      "client_name": "Urban Tech Solutions Pvt Ltd",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-09",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1010",
+      "client_id": "CLI010",
+      "client_name": "Metro Enterprises Pvt Ltd",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 37500,
+      "due_date": "2026-10-25",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1011",
+      "client_id": "CLI011",
+      "client_name": "Kavya Logistics Pvt Ltd",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 87500,
+      "due_amount_inr": 262500,
+      "due_date": "2026-09-22",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1012",
+      "client_id": "CLI012",
+      "client_name": "Trident Media Works Pvt Ltd",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 200000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-08",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1013",
+      "client_id": "CLI013",
+      "client_name": "Sunrise FinTech Pvt Ltd",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 100000,
+      "due_date": "2026-10-29",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1014",
+      "client_id": "CLI014",
+      "client_name": "Delta Retail Pvt Ltd",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 25000,
+      "due_date": "2026-09-16",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1015",
+      "client_id": "CLI015",
+      "client_name": "Prime Systems Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 125000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-18",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1016",
+      "client_id": "CLI016",
+      "client_name": "Summit Infotech Pvt Ltd",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 50000,
+      "due_date": "2026-10-29",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1017",
+      "client_id": "CLI017",
+      "client_name": "Horizon Tech Solutions Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 125000,
+      "due_date": "2026-09-27",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1018",
+      "client_id": "CLI018",
+      "client_name": "Pioneer Enterprises Pvt Ltd",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 150000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-23",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1019",
+      "client_id": "CLI019",
+      "client_name": "Quantum Logistics Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 87500,
+      "due_date": "2026-10-24",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1020",
+      "client_id": "CLI020",
+      "client_name": "Omega Media Works Pvt Ltd",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 100000,
+      "due_date": "2026-09-06",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1021",
+      "client_id": "CLI021",
+      "client_name": "Imperial FinTech Pvt Ltd",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 200000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-09",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1022",
+      "client_id": "CLI022",
+      "client_name": "Vanguard Retail Pvt Ltd",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 10500,
+      "due_amount_inr": 24500,
+      "due_date": "2026-10-07",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1023",
+      "client_id": "CLI023",
+      "client_name": "Starlight Systems Pvt Ltd",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 87500,
+      "due_amount_inr": 262500,
+      "due_date": "2026-09-09",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1024",
+      "client_id": "CLI024",
+      "client_name": "Econ Infotech Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 125000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-08",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1025",
+      "client_id": "CLI025",
+      "client_name": "Falcon Tech Solutions Pvt Ltd",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 37500,
+      "due_date": "2026-10-07",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1026",
+      "client_id": "CLI026",
+      "client_name": "Apex Enterprises Pvt Ltd",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 12500,
+      "due_amount_inr": 12500,
+      "due_date": "2026-09-22",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1027",
+      "client_id": "CLI027",
+      "client_name": "Zenith Logistics Pvt Ltd",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 100000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-24",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1028",
+      "client_id": "CLI028",
+      "client_name": "Bharat Media Works Pvt Ltd",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 75000,
+      "due_date": "2026-10-17",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1029",
+      "client_id": "CLI029",
+      "client_name": "BlueWave FinTech Pvt Ltd",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 75000,
+      "due_date": "2026-09-09",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1030",
+      "client_id": "CLI030",
+      "client_name": "Nexus Retail Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 125000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-21",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1031",
+      "client_id": "CLI031",
+      "client_name": "GreenEarth Systems Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 87500,
+      "due_date": "2026-10-11",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1032",
+      "client_id": "CLI032",
+      "client_name": "Vedic Infotech Pvt Ltd",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 50000,
+      "due_date": "2026-09-08",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1033",
+      "client_id": "CLI033",
+      "client_name": "Nova Tech Solutions Pvt Ltd",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 35000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-07",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1034",
+      "client_id": "CLI034",
+      "client_name": "Urban Enterprises Pvt Ltd",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 25000,
+      "due_date": "2026-10-28",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1035",
+      "client_id": "CLI035",
+      "client_name": "Metro Logistics Pvt Ltd",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 75000,
+      "due_date": "2026-09-15",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1036",
+      "client_id": "CLI036",
+      "client_name": "Kavya Media Works Pvt Ltd",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 150000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-18",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1037",
+      "client_id": "CLI037",
+      "client_name": "Trident FinTech Pvt Ltd",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 350000,
+      "due_date": "2026-10-26",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1038",
+      "client_id": "CLI038",
+      "client_name": "Sunrise Retail Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 125000,
+      "due_date": "2026-09-22",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1039",
+      "client_id": "CLI039",
+      "client_name": "Delta Systems Pvt Ltd",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-01",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1040",
+      "client_id": "CLI040",
+      "client_name": "Prime Infotech Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 87500,
+      "due_date": "2026-10-13",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1041",
+      "client_id": "CLI041",
+      "client_name": "Summit Tech Solutions Pvt Ltd",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 35000,
+      "due_date": "2026-09-11",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1042",
+      "client_id": "CLI042",
+      "client_name": "Horizon Enterprises Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 125000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-20",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1043",
+      "client_id": "CLI043",
+      "client_name": "Pioneer Logistics Pvt Ltd",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 60000,
+      "due_amount_inr": 140000,
+      "due_date": "2026-10-25",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1044",
+      "client_id": "CLI044",
+      "client_name": "Quantum Media Works Pvt Ltd",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 200000,
+      "due_date": "2026-09-21",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1045",
+      "client_id": "CLI045",
+      "client_name": "Omega FinTech Pvt Ltd",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-19",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1046",
+      "client_id": "CLI046",
+      "client_name": "Imperial Retail Pvt Ltd",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 175000,
+      "due_amount_inr": 175000,
+      "due_date": "2026-10-13",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1047",
+      "client_id": "CLI047",
+      "client_name": "Vanguard Systems Pvt Ltd",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 75000,
+      "due_amount_inr": 75000,
+      "due_date": "2026-09-17",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1048",
+      "client_id": "CLI048",
+      "client_name": "Starlight Infotech Pvt Ltd",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 125000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-19",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1049",
+      "client_id": "CLI049",
+      "client_name": "Econ Tech Solutions Pvt Ltd",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 25000,
+      "due_date": "2026-10-20",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1050",
+      "client_id": "CLI050",
+      "client_name": "Falcon Enterprises Pvt Ltd",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 35000,
+      "due_date": "2026-09-26",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1051",
+      "client_id": "CLI051",
+      "client_name": "Apex Group - Unit 1",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-06",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1052",
+      "client_id": "CLI052",
+      "client_name": "Zenith Group - Unit 2",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 25000,
+      "due_date": "2026-10-18",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1053",
+      "client_id": "CLI053",
+      "client_name": "Bharat Group - Unit 3",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 8750,
+      "due_amount_inr": 26250,
+      "due_date": "2026-09-17",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1054",
+      "client_id": "CLI054",
+      "client_name": "BlueWave Group - Unit 4",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 200000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-10",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1055",
+      "client_id": "CLI055",
+      "client_name": "Nexus Group - Unit 5",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 50000,
+      "due_date": "2026-10-05",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1056",
+      "client_id": "CLI056",
+      "client_name": "GreenEarth Group - Unit 6",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 17500,
+      "due_amount_inr": 17500,
+      "due_date": "2026-09-12",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1057",
+      "client_id": "CLI057",
+      "client_name": "Vedic Group - Unit 7",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 100000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-02",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1058",
+      "client_id": "CLI058",
+      "client_name": "Nova Group - Unit 8",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 125000,
+      "due_date": "2026-10-14",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1059",
+      "client_id": "CLI059",
+      "client_name": "Urban Group - Unit 9",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 150000,
+      "due_date": "2026-09-15",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1060",
+      "client_id": "CLI060",
+      "client_name": "Metro Group - Unit 10",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-03",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1061",
+      "client_id": "CLI061",
+      "client_name": "Kavya Group - Unit 11",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 50000,
+      "due_date": "2026-10-29",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1062",
+      "client_id": "CLI062",
+      "client_name": "Trident Group - Unit 12",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 25000,
+      "due_date": "2026-09-26",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1063",
+      "client_id": "CLI063",
+      "client_name": "Sunrise Group - Unit 13",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 100000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-06",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1064",
+      "client_id": "CLI064",
+      "client_name": "Delta Group - Unit 14",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 175000,
+      "due_amount_inr": 175000,
+      "due_date": "2026-10-11",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1065",
+      "client_id": "CLI065",
+      "client_name": "Prime Group - Unit 15",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 12500,
+      "due_amount_inr": 37500,
+      "due_date": "2026-09-24",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1066",
+      "client_id": "CLI066",
+      "client_name": "Summit Group - Unit 16",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 350000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-02",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1067",
+      "client_id": "CLI067",
+      "client_name": "Horizon Group - Unit 17",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 350000,
+      "due_date": "2026-10-24",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1068",
+      "client_id": "CLI068",
+      "client_name": "Pioneer Group - Unit 18",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 31250,
+      "due_amount_inr": 93750,
+      "due_date": "2026-09-29",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1069",
+      "client_id": "CLI069",
+      "client_name": "Quantum Group - Unit 19",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 35000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-15",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1070",
+      "client_id": "CLI070",
+      "client_name": "Omega Group - Unit 20",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 100000,
+      "due_date": "2026-10-06",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1071",
+      "client_id": "CLI071",
+      "client_name": "Imperial Group - Unit 21",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 37500,
+      "due_date": "2026-09-27",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1072",
+      "client_id": "CLI072",
+      "client_name": "Vanguard Group - Unit 22",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 35000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-03",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1073",
+      "client_id": "CLI073",
+      "client_name": "Starlight Group - Unit 23",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 200000,
+      "due_date": "2026-10-29",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1074",
+      "client_id": "CLI074",
+      "client_name": "Econ Group - Unit 24",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 350000,
+      "due_date": "2026-09-25",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1075",
+      "client_id": "CLI075",
+      "client_name": "Falcon Group - Unit 25",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 200000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-09",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1076",
+      "client_id": "CLI076",
+      "client_name": "Apex Group - Unit 26",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 15000,
+      "due_amount_inr": 35000,
+      "due_date": "2026-10-21",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1077",
+      "client_id": "CLI077",
+      "client_name": "Zenith Group - Unit 27",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 150000,
+      "due_date": "2026-09-12",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1078",
+      "client_id": "CLI078",
+      "client_name": "Bharat Group - Unit 28",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 75000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-04",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1079",
+      "client_id": "CLI079",
+      "client_name": "BlueWave Group - Unit 29",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 30000,
+      "due_amount_inr": 70000,
+      "due_date": "2026-10-26",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1080",
+      "client_id": "CLI080",
+      "client_name": "Nexus Group - Unit 30",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 31250,
+      "due_amount_inr": 93750,
+      "due_date": "2026-09-13",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1081",
+      "client_id": "CLI081",
+      "client_name": "GreenEarth Group - Unit 31",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 200000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-23",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1082",
+      "client_id": "CLI082",
+      "client_name": "Vedic Group - Unit 32",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 75000,
+      "due_date": "2026-10-07",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1083",
+      "client_id": "CLI083",
+      "client_name": "Nova Group - Unit 33",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 125000,
+      "due_date": "2026-09-11",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1084",
+      "client_id": "CLI084",
+      "client_name": "Urban Group - Unit 34",
+      "total_amount_inr": 350000,
+      "paid_amount_inr": 350000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-19",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1085",
+      "client_id": "CLI085",
+      "client_name": "Metro Group - Unit 35",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 75000,
+      "due_date": "2026-10-07",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1086",
+      "client_id": "CLI086",
+      "client_name": "Kavya Group - Unit 36",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 25000,
+      "due_date": "2026-09-27",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1087",
+      "client_id": "CLI087",
+      "client_name": "Trident Group - Unit 37",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-16",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1088",
+      "client_id": "CLI088",
+      "client_name": "Sunrise Group - Unit 38",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 17500,
+      "due_amount_inr": 17500,
+      "due_date": "2026-10-12",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1089",
+      "client_id": "CLI089",
+      "client_name": "Delta Group - Unit 39",
+      "total_amount_inr": 100000,
+      "paid_amount_inr": 50000,
+      "due_amount_inr": 50000,
+      "due_date": "2026-09-14",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1090",
+      "client_id": "CLI090",
+      "client_name": "Prime Group - Unit 40",
+      "total_amount_inr": 75000,
+      "paid_amount_inr": 75000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-09",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1091",
+      "client_id": "CLI091",
+      "client_name": "Summit Group - Unit 41",
+      "total_amount_inr": 50000,
+      "paid_amount_inr": 25000,
+      "due_amount_inr": 25000,
+      "due_date": "2026-10-23",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1092",
+      "client_id": "CLI092",
+      "client_name": "Horizon Group - Unit 42",
+      "total_amount_inr": 200000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 200000,
+      "due_date": "2026-09-14",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1093",
+      "client_id": "CLI093",
+      "client_name": "Pioneer Group - Unit 43",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 150000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-20",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1094",
+      "client_id": "CLI094",
+      "client_name": "Quantum Group - Unit 44",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 35000,
+      "due_date": "2026-10-26",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1095",
+      "client_id": "CLI095",
+      "client_name": "Omega Group - Unit 45",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 37500,
+      "due_amount_inr": 112500,
+      "due_date": "2026-09-16",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1096",
+      "client_id": "CLI096",
+      "client_name": "Imperial Group - Unit 46",
+      "total_amount_inr": 150000,
+      "paid_amount_inr": 150000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-12",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1097",
+      "client_id": "CLI097",
+      "client_name": "Vanguard Group - Unit 47",
+      "total_amount_inr": 25000,
+      "paid_amount_inr": 12500,
+      "due_amount_inr": 12500,
+      "due_date": "2026-10-25",
+      "status": "Pending"
+    },
+    {
+      "invoice_id": "INV-1098",
+      "client_id": "CLI098",
+      "client_name": "Starlight Group - Unit 48",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 35000,
+      "due_date": "2026-09-17",
+      "status": "Overdue"
+    },
+    {
+      "invoice_id": "INV-1099",
+      "client_id": "CLI099",
+      "client_name": "Econ Group - Unit 49",
+      "total_amount_inr": 125000,
+      "paid_amount_inr": 125000,
+      "due_amount_inr": 0,
+      "due_date": "2026-09-01",
+      "status": "Paid"
+    },
+    {
+      "invoice_id": "INV-1100",
+      "client_id": "CLI100",
+      "client_name": "Falcon Group - Unit 50",
+      "total_amount_inr": 35000,
+      "paid_amount_inr": 0,
+      "due_amount_inr": 35000,
+      "due_date": "2026-10-11",
+      "status": "Pending"
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": "TSK-5001",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP001",
+      "assigned_to_name": "Rahul Sharma",
+      "department": "Engineering",
+      "deadline": "2026-09-27",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-29 22:00"
+    },
+    {
+      "task_id": "TSK-5002",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP002",
+      "assigned_to_name": "Pooja Singh",
+      "department": "Engineering",
+      "deadline": "2026-09-28",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 02:00"
+    },
+    {
+      "task_id": "TSK-5003",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP003",
+      "assigned_to_name": "Amit Kumar",
+      "department": "Engineering",
+      "deadline": "2026-09-29",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 13:00"
+    },
+    {
+      "task_id": "TSK-5004",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP004",
+      "assigned_to_name": "Neha Reddy",
+      "department": "Design",
+      "deadline": "2026-09-30",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-30 05:00"
+    },
+    {
+      "task_id": "TSK-5005",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP005",
+      "assigned_to_name": "Vikram Bose",
+      "department": "Design",
+      "deadline": "2026-10-01",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 16:00"
+    },
+    {
+      "task_id": "TSK-5006",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP006",
+      "assigned_to_name": "Sneha Malhotra",
+      "department": "Accounts",
+      "deadline": "2026-10-02",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 23:00"
+    },
+    {
+      "task_id": "TSK-5007",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP007",
+      "assigned_to_name": "Karan Mishra",
+      "department": "Accounts",
+      "deadline": "2026-10-03",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-29 11:00"
+    },
+    {
+      "task_id": "TSK-5008",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP008",
+      "assigned_to_name": "Ananya Verma",
+      "department": "Sales",
+      "deadline": "2026-10-04",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 11:00"
+    },
+    {
+      "task_id": "TSK-5009",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP009",
+      "assigned_to_name": "Rohan Gupta",
+      "department": "Sales",
+      "deadline": "2026-10-05",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 15:00"
+    },
+    {
+      "task_id": "TSK-5010",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP010",
+      "assigned_to_name": "Priya Iyer",
+      "department": "Operations",
+      "deadline": "2026-10-06",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-30 13:00"
+    },
+    {
+      "task_id": "TSK-5011",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP011",
+      "assigned_to_name": "Manish Chopra",
+      "department": "Engineering",
+      "deadline": "2026-10-07",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 14:00"
+    },
+    {
+      "task_id": "TSK-5012",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP012",
+      "assigned_to_name": "Kavita Dutta",
+      "department": "Engineering",
+      "deadline": "2026-10-08",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 00:00"
+    },
+    {
+      "task_id": "TSK-5013",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP013",
+      "assigned_to_name": "Siddharth Kapoor",
+      "department": "Engineering",
+      "deadline": "2026-10-09",
+      "status": "Blocked",
+      "blocker": "Third-party API credentials delayed",
+      "last_updated_at": "2026-09-30 10:00"
+    },
+    {
+      "task_id": "TSK-5014",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP014",
+      "assigned_to_name": "Ritu Pandey",
+      "department": "Design",
+      "deadline": "2026-10-10",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 16:00"
+    },
+    {
+      "task_id": "TSK-5015",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP015",
+      "assigned_to_name": "Deepak Patel",
+      "department": "Design",
+      "deadline": "2026-10-11",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 01:00"
+    },
+    {
+      "task_id": "TSK-5016",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP016",
+      "assigned_to_name": "Swati Mehta",
+      "department": "Accounts",
+      "deadline": "2026-10-12",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-30 21:00"
+    },
+    {
+      "task_id": "TSK-5017",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP017",
+      "assigned_to_name": "Arjun Nair",
+      "department": "Accounts",
+      "deadline": "2026-10-13",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 11:00"
+    },
+    {
+      "task_id": "TSK-5018",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP018",
+      "assigned_to_name": "Divya Joshi",
+      "department": "Sales",
+      "deadline": "2026-10-14",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 16:00"
+    },
+    {
+      "task_id": "TSK-5019",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP019",
+      "assigned_to_name": "Gaurav Mukherjee",
+      "department": "Sales",
+      "deadline": "2026-10-15",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-30 01:00"
+    },
+    {
+      "task_id": "TSK-5020",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP020",
+      "assigned_to_name": "Megha Chatterjee",
+      "department": "Operations",
+      "deadline": "2026-10-16",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 18:00"
+    },
+    {
+      "task_id": "TSK-5021",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP021",
+      "assigned_to_name": "Sanjay Sharma",
+      "department": "Engineering",
+      "deadline": "2026-10-17",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 08:00"
+    },
+    {
+      "task_id": "TSK-5022",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP022",
+      "assigned_to_name": "Anjali Singh",
+      "department": "Engineering",
+      "deadline": "2026-10-18",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-28 09:00"
+    },
+    {
+      "task_id": "TSK-5023",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP023",
+      "assigned_to_name": "Varun Kumar",
+      "department": "Engineering",
+      "deadline": "2026-10-19",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 19:00"
+    },
+    {
+      "task_id": "TSK-5024",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP024",
+      "assigned_to_name": "Sunita Reddy",
+      "department": "Design",
+      "deadline": "2026-10-20",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 19:00"
+    },
+    {
+      "task_id": "TSK-5025",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP025",
+      "assigned_to_name": "Rajesh Bose",
+      "department": "Design",
+      "deadline": "2026-09-26",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-30 15:00"
+    },
+    {
+      "task_id": "TSK-5026",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP026",
+      "assigned_to_name": "Tanvi Malhotra",
+      "department": "Accounts",
+      "deadline": "2026-09-27",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 01:00"
+    },
+    {
+      "task_id": "TSK-5027",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP027",
+      "assigned_to_name": "Naveen Mishra",
+      "department": "Accounts",
+      "deadline": "2026-09-28",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 22:00"
+    },
+    {
+      "task_id": "TSK-5028",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP028",
+      "assigned_to_name": "Shreya Verma",
+      "department": "Sales",
+      "deadline": "2026-09-29",
+      "status": "Blocked",
+      "blocker": "Third-party API credentials delayed",
+      "last_updated_at": "2026-09-30 22:00"
+    },
+    {
+      "task_id": "TSK-5029",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP029",
+      "assigned_to_name": "Aditya Gupta",
+      "department": "Sales",
+      "deadline": "2026-09-30",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 21:00"
+    },
+    {
+      "task_id": "TSK-5030",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP030",
+      "assigned_to_name": "Preeti Iyer",
+      "department": "Operations",
+      "deadline": "2026-10-01",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 13:00"
+    },
+    {
+      "task_id": "TSK-5031",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP031",
+      "assigned_to_name": "Abhishek Chopra",
+      "department": "Engineering",
+      "deadline": "2026-10-02",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-28 12:00"
+    },
+    {
+      "task_id": "TSK-5032",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP032",
+      "assigned_to_name": "Aparna Dutta",
+      "department": "Engineering",
+      "deadline": "2026-10-03",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 10:00"
+    },
+    {
+      "task_id": "TSK-5033",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP033",
+      "assigned_to_name": "Harish Kapoor",
+      "department": "Engineering",
+      "deadline": "2026-10-04",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 16:00"
+    },
+    {
+      "task_id": "TSK-5034",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP034",
+      "assigned_to_name": "Isha Pandey",
+      "department": "Design",
+      "deadline": "2026-10-05",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-28 08:00"
+    },
+    {
+      "task_id": "TSK-5035",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP035",
+      "assigned_to_name": "Manoj Patel",
+      "department": "Design",
+      "deadline": "2026-10-06",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 03:00"
+    },
+    {
+      "task_id": "TSK-5036",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP036",
+      "assigned_to_name": "Kiran Mehta",
+      "department": "Accounts",
+      "deadline": "2026-10-07",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 22:00"
+    },
+    {
+      "task_id": "TSK-5037",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP037",
+      "assigned_to_name": "Sachin Nair",
+      "department": "Accounts",
+      "deadline": "2026-10-08",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-29 09:00"
+    },
+    {
+      "task_id": "TSK-5038",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP038",
+      "assigned_to_name": "Bhavna Joshi",
+      "department": "Sales",
+      "deadline": "2026-10-09",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 19:00"
+    },
+    {
+      "task_id": "TSK-5039",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP039",
+      "assigned_to_name": "Alok Mukherjee",
+      "department": "Sales",
+      "deadline": "2026-10-10",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 15:00"
+    },
+    {
+      "task_id": "TSK-5040",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP040",
+      "assigned_to_name": "Rashmi Chatterjee",
+      "department": "Operations",
+      "deadline": "2026-10-11",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-28 01:00"
+    },
+    {
+      "task_id": "TSK-5041",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP041",
+      "assigned_to_name": "Rahul Sharma",
+      "department": "Engineering",
+      "deadline": "2026-10-12",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 15:00"
+    },
+    {
+      "task_id": "TSK-5042",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP042",
+      "assigned_to_name": "Pooja Singh",
+      "department": "Engineering",
+      "deadline": "2026-10-13",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 06:00"
+    },
+    {
+      "task_id": "TSK-5043",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP043",
+      "assigned_to_name": "Amit Kumar",
+      "department": "Engineering",
+      "deadline": "2026-10-14",
+      "status": "Blocked",
+      "blocker": "Third-party API credentials delayed",
+      "last_updated_at": "2026-09-30 15:00"
+    },
+    {
+      "task_id": "TSK-5044",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP044",
+      "assigned_to_name": "Neha Reddy",
+      "department": "Design",
+      "deadline": "2026-10-15",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 16:00"
+    },
+    {
+      "task_id": "TSK-5045",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP045",
+      "assigned_to_name": "Vikram Bose",
+      "department": "Design",
+      "deadline": "2026-10-16",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 09:00"
+    },
+    {
+      "task_id": "TSK-5046",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP046",
+      "assigned_to_name": "Sneha Malhotra",
+      "department": "Accounts",
+      "deadline": "2026-10-17",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-28 06:00"
+    },
+    {
+      "task_id": "TSK-5047",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP047",
+      "assigned_to_name": "Karan Mishra",
+      "department": "Accounts",
+      "deadline": "2026-10-18",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 03:00"
+    },
+    {
+      "task_id": "TSK-5048",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP048",
+      "assigned_to_name": "Ananya Verma",
+      "department": "Sales",
+      "deadline": "2026-10-19",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 02:00"
+    },
+    {
+      "task_id": "TSK-5049",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP049",
+      "assigned_to_name": "Rohan Gupta",
+      "department": "Sales",
+      "deadline": "2026-10-20",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-30 15:00"
+    },
+    {
+      "task_id": "TSK-5050",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP050",
+      "assigned_to_name": "Priya Iyer",
+      "department": "Operations",
+      "deadline": "2026-09-26",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 05:00"
+    },
+    {
+      "task_id": "TSK-5051",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP051",
+      "assigned_to_name": "Manish Chopra",
+      "department": "Engineering",
+      "deadline": "2026-09-27",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 12:00"
+    },
+    {
+      "task_id": "TSK-5052",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP052",
+      "assigned_to_name": "Kavita Dutta",
+      "department": "Engineering",
+      "deadline": "2026-09-28",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-29 23:00"
+    },
+    {
+      "task_id": "TSK-5053",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP053",
+      "assigned_to_name": "Siddharth Kapoor",
+      "department": "Engineering",
+      "deadline": "2026-09-29",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 14:00"
+    },
+    {
+      "task_id": "TSK-5054",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP054",
+      "assigned_to_name": "Ritu Pandey",
+      "department": "Design",
+      "deadline": "2026-09-30",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 14:00"
+    },
+    {
+      "task_id": "TSK-5055",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP055",
+      "assigned_to_name": "Deepak Patel",
+      "department": "Design",
+      "deadline": "2026-10-01",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-29 16:00"
+    },
+    {
+      "task_id": "TSK-5056",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP056",
+      "assigned_to_name": "Swati Mehta",
+      "department": "Accounts",
+      "deadline": "2026-10-02",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 19:00"
+    },
+    {
+      "task_id": "TSK-5057",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP057",
+      "assigned_to_name": "Arjun Nair",
+      "department": "Accounts",
+      "deadline": "2026-10-03",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 07:00"
+    },
+    {
+      "task_id": "TSK-5058",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP058",
+      "assigned_to_name": "Divya Joshi",
+      "department": "Sales",
+      "deadline": "2026-10-04",
+      "status": "Blocked",
+      "blocker": "Third-party API credentials delayed",
+      "last_updated_at": "2026-09-29 15:00"
+    },
+    {
+      "task_id": "TSK-5059",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP059",
+      "assigned_to_name": "Gaurav Mukherjee",
+      "department": "Sales",
+      "deadline": "2026-10-05",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 17:00"
+    },
+    {
+      "task_id": "TSK-5060",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP060",
+      "assigned_to_name": "Megha Chatterjee",
+      "department": "Operations",
+      "deadline": "2026-10-06",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 12:00"
+    },
+    {
+      "task_id": "TSK-5061",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP061",
+      "assigned_to_name": "Sanjay Sharma",
+      "department": "Engineering",
+      "deadline": "2026-10-07",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-28 17:00"
+    },
+    {
+      "task_id": "TSK-5062",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP062",
+      "assigned_to_name": "Anjali Singh",
+      "department": "Engineering",
+      "deadline": "2026-10-08",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 04:00"
+    },
+    {
+      "task_id": "TSK-5063",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP063",
+      "assigned_to_name": "Varun Kumar",
+      "department": "Engineering",
+      "deadline": "2026-10-09",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 06:00"
+    },
+    {
+      "task_id": "TSK-5064",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP064",
+      "assigned_to_name": "Sunita Reddy",
+      "department": "Design",
+      "deadline": "2026-10-10",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-29 13:00"
+    },
+    {
+      "task_id": "TSK-5065",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP065",
+      "assigned_to_name": "Rajesh Bose",
+      "department": "Design",
+      "deadline": "2026-10-11",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 20:00"
+    },
+    {
+      "task_id": "TSK-5066",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP066",
+      "assigned_to_name": "Tanvi Malhotra",
+      "department": "Accounts",
+      "deadline": "2026-10-12",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 06:00"
+    },
+    {
+      "task_id": "TSK-5067",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP067",
+      "assigned_to_name": "Naveen Mishra",
+      "department": "Accounts",
+      "deadline": "2026-10-13",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-29 16:00"
+    },
+    {
+      "task_id": "TSK-5068",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP068",
+      "assigned_to_name": "Shreya Verma",
+      "department": "Sales",
+      "deadline": "2026-10-14",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 13:00"
+    },
+    {
+      "task_id": "TSK-5069",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP069",
+      "assigned_to_name": "Aditya Gupta",
+      "department": "Sales",
+      "deadline": "2026-10-15",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 20:00"
+    },
+    {
+      "task_id": "TSK-5070",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP070",
+      "assigned_to_name": "Preeti Iyer",
+      "department": "Operations",
+      "deadline": "2026-10-16",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-30 06:00"
+    },
+    {
+      "task_id": "TSK-5071",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP071",
+      "assigned_to_name": "Abhishek Chopra",
+      "department": "Engineering",
+      "deadline": "2026-10-17",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 08:00"
+    },
+    {
+      "task_id": "TSK-5072",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP072",
+      "assigned_to_name": "Aparna Dutta",
+      "department": "Engineering",
+      "deadline": "2026-10-18",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 12:00"
+    },
+    {
+      "task_id": "TSK-5073",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP073",
+      "assigned_to_name": "Harish Kapoor",
+      "department": "Engineering",
+      "deadline": "2026-10-19",
+      "status": "Blocked",
+      "blocker": "Third-party API credentials delayed",
+      "last_updated_at": "2026-09-29 06:00"
+    },
+    {
+      "task_id": "TSK-5074",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP074",
+      "assigned_to_name": "Isha Pandey",
+      "department": "Design",
+      "deadline": "2026-10-20",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 13:00"
+    },
+    {
+      "task_id": "TSK-5075",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP075",
+      "assigned_to_name": "Manoj Patel",
+      "department": "Design",
+      "deadline": "2026-09-26",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 21:00"
+    },
+    {
+      "task_id": "TSK-5076",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP076",
+      "assigned_to_name": "Kiran Mehta",
+      "department": "Accounts",
+      "deadline": "2026-09-27",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-28 12:00"
+    },
+    {
+      "task_id": "TSK-5077",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP077",
+      "assigned_to_name": "Sachin Nair",
+      "department": "Accounts",
+      "deadline": "2026-09-28",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 10:00"
+    },
+    {
+      "task_id": "TSK-5078",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP078",
+      "assigned_to_name": "Bhavna Joshi",
+      "department": "Sales",
+      "deadline": "2026-09-29",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 13:00"
+    },
+    {
+      "task_id": "TSK-5079",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP079",
+      "assigned_to_name": "Alok Mukherjee",
+      "department": "Sales",
+      "deadline": "2026-09-30",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-28 02:00"
+    },
+    {
+      "task_id": "TSK-5080",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP080",
+      "assigned_to_name": "Rashmi Chatterjee",
+      "department": "Operations",
+      "deadline": "2026-10-01",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 19:00"
+    },
+    {
+      "task_id": "TSK-5081",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP081",
+      "assigned_to_name": "Rahul Sharma",
+      "department": "Engineering",
+      "deadline": "2026-10-02",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 06:00"
+    },
+    {
+      "task_id": "TSK-5082",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP082",
+      "assigned_to_name": "Pooja Singh",
+      "department": "Engineering",
+      "deadline": "2026-10-03",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-29 13:00"
+    },
+    {
+      "task_id": "TSK-5083",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP083",
+      "assigned_to_name": "Amit Kumar",
+      "department": "Engineering",
+      "deadline": "2026-10-04",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 06:00"
+    },
+    {
+      "task_id": "TSK-5084",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP084",
+      "assigned_to_name": "Neha Reddy",
+      "department": "Design",
+      "deadline": "2026-10-05",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 02:00"
+    },
+    {
+      "task_id": "TSK-5085",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP085",
+      "assigned_to_name": "Vikram Bose",
+      "department": "Design",
+      "deadline": "2026-10-06",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-30 14:00"
+    },
+    {
+      "task_id": "TSK-5086",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP086",
+      "assigned_to_name": "Sneha Malhotra",
+      "department": "Accounts",
+      "deadline": "2026-10-07",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 15:00"
+    },
+    {
+      "task_id": "TSK-5087",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP087",
+      "assigned_to_name": "Karan Mishra",
+      "department": "Accounts",
+      "deadline": "2026-10-08",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 23:00"
+    },
+    {
+      "task_id": "TSK-5088",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP088",
+      "assigned_to_name": "Ananya Verma",
+      "department": "Sales",
+      "deadline": "2026-10-09",
+      "status": "Blocked",
+      "blocker": "Third-party API credentials delayed",
+      "last_updated_at": "2026-09-29 10:00"
+    },
+    {
+      "task_id": "TSK-5089",
+      "title": "Vendor Onboarding Review - Sprint 1",
+      "assigned_to_emp_id": "EMP089",
+      "assigned_to_name": "Rohan Gupta",
+      "department": "Sales",
+      "deadline": "2026-10-10",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 02:00"
+    },
+    {
+      "task_id": "TSK-5090",
+      "title": "Security Compliance Check - Sprint 2",
+      "assigned_to_emp_id": "EMP090",
+      "assigned_to_name": "Priya Iyer",
+      "department": "Operations",
+      "deadline": "2026-10-11",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 14:00"
+    },
+    {
+      "task_id": "TSK-5091",
+      "title": "Customer Support Automation - Sprint 3",
+      "assigned_to_emp_id": "EMP091",
+      "assigned_to_name": "Manish Chopra",
+      "department": "Engineering",
+      "deadline": "2026-10-12",
+      "status": "Blocked",
+      "blocker": "Waiting for client approval",
+      "last_updated_at": "2026-09-28 01:00"
+    },
+    {
+      "task_id": "TSK-5092",
+      "title": "Marketing Funnel Optimization - Sprint 4",
+      "assigned_to_emp_id": "EMP092",
+      "assigned_to_name": "Kavita Dutta",
+      "department": "Engineering",
+      "deadline": "2026-10-13",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 08:00"
+    },
+    {
+      "task_id": "TSK-5093",
+      "title": "Server Backup Pipeline - Sprint 1",
+      "assigned_to_emp_id": "EMP093",
+      "assigned_to_name": "Siddharth Kapoor",
+      "department": "Engineering",
+      "deadline": "2026-10-14",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 03:00"
+    },
+    {
+      "task_id": "TSK-5094",
+      "title": "Employee Payroll Settlement - Sprint 2",
+      "assigned_to_emp_id": "EMP094",
+      "assigned_to_name": "Ritu Pandey",
+      "department": "Design",
+      "deadline": "2026-10-15",
+      "status": "Blocked",
+      "blocker": "Server access permissions pending",
+      "last_updated_at": "2026-09-30 21:00"
+    },
+    {
+      "task_id": "TSK-5095",
+      "title": "Cloud Cost Optimization - Sprint 3",
+      "assigned_to_emp_id": "EMP095",
+      "assigned_to_name": "Deepak Patel",
+      "department": "Design",
+      "deadline": "2026-10-16",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-28 00:00"
+    },
+    {
+      "task_id": "TSK-5096",
+      "title": "API Rate Limiter Implementation - Sprint 4",
+      "assigned_to_emp_id": "EMP096",
+      "assigned_to_name": "Swati Mehta",
+      "department": "Accounts",
+      "deadline": "2026-10-17",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 08:00"
+    },
+    {
+      "task_id": "TSK-5097",
+      "title": "Q2 Financial Audit - Sprint 1",
+      "assigned_to_emp_id": "EMP097",
+      "assigned_to_name": "Arjun Nair",
+      "department": "Accounts",
+      "deadline": "2026-10-18",
+      "status": "Blocked",
+      "blocker": "Bank statements pending verification",
+      "last_updated_at": "2026-09-30 09:00"
+    },
+    {
+      "task_id": "TSK-5098",
+      "title": "Payment Gateway Integration - Sprint 2",
+      "assigned_to_emp_id": "EMP098",
+      "assigned_to_name": "Divya Joshi",
+      "department": "Sales",
+      "deadline": "2026-10-19",
+      "status": "Completed",
+      "blocker": null,
+      "last_updated_at": "2026-09-30 05:00"
+    },
+    {
+      "task_id": "TSK-5099",
+      "title": "Mobile App UI Redesign - Sprint 3",
+      "assigned_to_emp_id": "EMP099",
+      "assigned_to_name": "Gaurav Mukherjee",
+      "department": "Sales",
+      "deadline": "2026-10-20",
+      "status": "In Progress",
+      "blocker": null,
+      "last_updated_at": "2026-09-29 13:00"
+    },
+    {
+      "task_id": "TSK-5100",
+      "title": "PostgreSQL Migration - Sprint 4",
+      "assigned_to_emp_id": "EMP100",
+      "assigned_to_name": "Megha Chatterjee",
+      "department": "Operations",
+      "deadline": "2026-09-26",
+      "status": "Blocked",
+      "blocker": "Vendor SLA documentation missing",
+      "last_updated_at": "2026-09-30 08:00"
+    }
+  ]
+}

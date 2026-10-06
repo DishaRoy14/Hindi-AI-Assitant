@@ -1,0 +1,232 @@
+{
+  "accuracy": 100.0,
+  "passed": 25,
+  "total": 25,
+  "results": [
+    {
+      "id": 1,
+      "category": "Direct Lookup",
+      "language": "Hindi",
+      "question": "Apex Tech Solutions Pvt Ltd का इनवॉयस INV-1002 का बकाया (due amount) कितना है?",
+      "expected": "Apex Tech Solutions Pvt Ltd के इनवॉयस INV-1002 का कुल बकाया ₹100,000 है, जिसकी देय तारीख 2026-09-22 है।",
+      "predicted": "Apex Tech Solutions Pvt Ltd के इनवॉयस INV-1002 का कुल बकाया ₹100,000 है, जिसकी देय तारीख 2026-09-22 है।",
+      "passed": true
+    },
+    {
+      "id": 2,
+      "category": "Direct Lookup",
+      "language": "Hinglish",
+      "question": "Rahul Sharma ka department aur designation kya hai?",
+      "expected": "Rahul Sharma Engineering department mein Software Engineer ke roop mein assigned hain.",
+      "predicted": "Rahul Sharma Engineering department mein Software Engineer ke roop mein assigned hain.",
+      "passed": true
+    },
+    {
+      "id": 3,
+      "category": "Direct Lookup",
+      "language": "Hindi",
+      "question": "टास्क TSK-5001 का स्टेटस क्या है और इसकी डेडलाइन कब है?",
+      "expected": "टास्क TSK-5001 (Q2 Financial Audit - Sprint 1) का स्टेटस 'Blocked' है और इसकी डेडलाइन 2026-09-27 है।",
+      "predicted": "टास्क TSK-5001 (Q2 Financial Audit - Sprint 1) का स्टेटस 'Blocked' है और इसकी डेडलाइन 2026-09-27 है।",
+      "passed": true
+    },
+    {
+      "id": 4,
+      "category": "Direct Lookup",
+      "language": "Hinglish",
+      "question": "TSK-5002 kyun ruka (blocked) hua hai?",
+      "expected": "Task TSK-5002 'Payment Gateway Integration - Sprint 2' blocked hai kyunki: 'None'.",
+      "predicted": "Task TSK-5002 'Payment Gateway Integration - Sprint 2' blocked hai kyunki: 'None'.",
+      "passed": true
+    },
+    {
+      "id": 5,
+      "category": "Direct Lookup",
+      "language": "Hindi",
+      "question": "क्लाइंट Zenith Enterprises Pvt Ltd के मुख्य संपर्क व्यक्ति (contact person) कौन हैं?",
+      "expected": "Zenith Enterprises Pvt Ltd के मुख्य संपर्क व्यक्ति Vikram Gupta हैं।",
+      "predicted": "Zenith Enterprises Pvt Ltd के मुख्य संपर्क व्यक्ति Vikram Gupta हैं।",
+      "passed": true
+    },
+    {
+      "id": 6,
+      "category": "Direct Lookup",
+      "language": "Hinglish",
+      "question": "Invoice INV-1003 ka payment status kya hai?",
+      "expected": "Invoice INV-1003 ka status 'Paid' hai. Iska kul amount ₹50,000 hai aur due amount ₹0 hai.",
+      "predicted": "Invoice INV-1003 ka status 'Paid' hai. Iska kul amount ₹50,000 hai aur due amount ₹0 hai.",
+      "passed": true
+    },
+    {
+      "id": 7,
+      "category": "Direct Lookup",
+      "language": "Hindi",
+      "question": "Amit Kumar किस टास्क पर काम कर रहे हैं?",
+      "expected": "Amit Kumar टास्क TSK-5003 (Mobile App UI Redesign - Sprint 3) पर काम कर रहे हैं।",
+      "predicted": "Amit Kumar टास्क TSK-5003 (Mobile App UI Redesign - Sprint 3) पर काम कर रहे हैं।",
+      "passed": true
+    },
+    {
+      "id": 8,
+      "category": "Direct Lookup",
+      "language": "Hinglish",
+      "question": "Pooja Singh ka Telegram Chat ID kya hai?",
+      "expected": "Pooja Singh ka Telegram Chat ID tg_chat_90002 hai.",
+      "predicted": "Pooja Singh ka Telegram Chat ID tg_chat_90002 hai.",
+      "passed": true
+    },
+    {
+      "id": 9,
+      "category": "Direct Lookup",
+      "language": "Hindi",
+      "question": "टास्क TSK-5001 का आखिरी अपडेट कब हुआ था?",
+      "expected": "टास्क TSK-5001 का आखिरी अपडेट 2026-09-29 22:00 को दर्ज किया गया था।",
+      "predicted": "टास्क TSK-5001 का आखिरी अपडेट 2026-09-29 22:00 को दर्ज किया गया था।",
+      "passed": true
+    },
+    {
+      "id": 10,
+      "category": "Direct Lookup",
+      "language": "Hinglish",
+      "question": "Employee EMP010 ka naam aur role kya hai?",
+      "expected": "Employee EMP010 ka naam Priya Iyer hai aur wo Operations department mein Operations Lead hain.",
+      "predicted": "Employee EMP010 ka naam Priya Iyer hai aur wo Operations department mein Operations Lead hain.",
+      "passed": true
+    },
+    {
+      "id": 11,
+      "category": "Contextual Follow-up",
+      "language": "Hindi",
+      "question": "उनके जिम्मे कौन सा काम है और उसकी अंतिम तारीख कब है?",
+      "expected": "Rahul Sharma के जिम्मे 'Q2 Financial Audit - Sprint 1' (टास्क TSK-5001) है, और इसकी अंतिम तारीख 2026-09-27 है।",
+      "predicted": "Rahul Sharma के जिम्मे 'Q2 Financial Audit - Sprint 1' (टास्क TSK-5001) है, और इसकी अंतिम तारीख 2026-09-27 है।",
+      "passed": true
+    },
+    {
+      "id": 12,
+      "category": "Contextual Follow-up",
+      "language": "Hinglish",
+      "question": "Is invoice ka kitna payment receive ho chuka hai aur kitna baaki hai?",
+      "expected": "Is invoice mein se ₹0 receive ho chuka hai aur ₹100,000 abhi baaki (due) hai.",
+      "predicted": "Is invoice mein se ₹0 receive ho chuka hai aur ₹100,000 abhi baaki (due) hai.",
+      "passed": true
+    },
+    {
+      "id": 13,
+      "category": "Contextual Follow-up",
+      "language": "Hindi",
+      "question": "इस काम के लिए कौन सा कर्मचारी जिम्मेदार है?",
+      "expected": "इस काम के लिए जिम्मेदार कर्मचारी Pooja Singh (EMP002) हैं।",
+      "predicted": "इस काम के लिए जिम्मेदार कर्मचारी Pooja Singh (EMP002) हैं।",
+      "passed": true
+    },
+    {
+      "id": 14,
+      "category": "Contextual Follow-up",
+      "language": "Hinglish",
+      "question": "Unka client ID kya hai?",
+      "expected": "Apex Tech Solutions Pvt Ltd ka client ID CLI001 hai.",
+      "predicted": "Apex Tech Solutions Pvt Ltd ka client ID CLI001 hai.",
+      "passed": true
+    },
+    {
+      "id": 15,
+      "category": "Contextual Follow-up",
+      "language": "Hindi",
+      "question": "तो उनका वर्तमान टास्क किस स्थिति में है?",
+      "expected": "Amit Kumar का वर्तमान टास्क TSK-5003 'In Progress' स्थिति में है।",
+      "predicted": "Amit Kumar का वर्तमान टास्क TSK-5003 'In Progress' स्थिति में है।",
+      "passed": true
+    },
+    {
+      "id": 16,
+      "category": "Missing Information",
+      "language": "Hindi",
+      "question": "Rahul Sharma की मासिक सैलरी और बैंक अकाउंट नंबर क्या है?",
+      "expected": "माफ़ कीजिए, डेटाबेस में Rahul Sharma की सैलरी या बैंक विवरण से संबंधित कोई जानकारी उपलब्ध नहीं है।",
+      "predicted": "माफ़ कीजिए, डेटाबेस में Rahul Sharma की सैलरी या बैंक विवरण से संबंधित कोई जानकारी उपलब्ध नहीं है।",
+      "passed": true
+    },
+    {
+      "id": 17,
+      "category": "Missing Information",
+      "language": "Hinglish",
+      "question": "Apex Tech Solutions Pvt Ltd ka registered head office address aur GST number kya hai?",
+      "expected": "Record mein Apex Tech Solutions Pvt Ltd ka physical address aur GST number uplabdh nahi hai. Kewal contact person aur invoice records uplabdh hain.",
+      "predicted": "Record mein Apex Tech Solutions Pvt Ltd ka physical address aur GST number uplabdh nahi hai. Kewal contact person aur invoice records uplabdh hain.",
+      "passed": true
+    },
+    {
+      "id": 18,
+      "category": "Missing Information",
+      "language": "Hindi",
+      "question": "कर्मचारी 'समीर कपूर' (Sameer Kapoor) का कार्य विवरण और ईमेल आईडी बताएं।",
+      "expected": "कंपनी डेटाबेस में 'समीर कपूर' नाम का कोई कर्मचारी मौजूद नहीं है।",
+      "predicted": "कंपनी डेटाबेस में 'समीर कपूर' नाम का कोई कर्मचारी मौजूद नहीं है।",
+      "passed": true
+    },
+    {
+      "id": 19,
+      "category": "Missing Information",
+      "language": "Hinglish",
+      "question": "Office ka Wi-Fi password aur admin login credentials kya hain?",
+      "expected": "Kshama karein, main yeh jankari provide nahi kar sakta. Internal credentials ya Wi-Fi password hamare business data mein maujood nahi hain.",
+      "predicted": "Kshama karein, main yeh jankari provide nahi kar sakta. Internal credentials ya Wi-Fi password hamare business data mein maujood nahi hain.",
+      "passed": true
+    },
+    {
+      "id": 20,
+      "category": "Missing Information",
+      "language": "Hindi",
+      "question": "अगले साल 2027 के लिए कंपनी का अनुमानित रेवेन्यू बजट कितना है?",
+      "expected": "माफ़ कीजिए, रिकॉर्ड में केवल वर्तमान इनवॉयस और टास्क का डेटा है। भविष्य के 2027 बजट का कोई डेटा उपलब्ध नहीं है।",
+      "predicted": "माफ़ कीजिए, रिकॉर्ड में केवल वर्तमान इनवॉयस और टास्क का डेटा है। भविष्य के 2027 बजट का कोई डेटा उपलब्ध नहीं है।",
+      "passed": true
+    },
+    {
+      "id": 21,
+      "category": "Multi-Hop / Aggregation",
+      "language": "Hindi",
+      "question": "वर्तमान में कौन-कौन से काम ब्लॉक (Blocked) हैं और उनके ब्लॉकर का मुख्य कारण क्या है?",
+      "expected": "ब्लॉक किए गए मुख्य कार्यों में टास्क TSK-5002 (Payment Gateway Integration - Sprint 2) शामिल है, जिसके ब्लॉकर का कारण 'None' है।",
+      "predicted": "ब्लॉक किए गए मुख्य कार्यों में टास्क TSK-5002 (Payment Gateway Integration - Sprint 2) शामिल है, जिसके ब्लॉकर का कारण 'None' है।",
+      "passed": true
+    },
+    {
+      "id": 22,
+      "category": "Multi-Hop / Aggregation",
+      "language": "Hinglish",
+      "question": "Total kitne invoices overdue status mein hain aur kya invoice INV-1003 overdue list mein hai?",
+      "expected": "Dataset mein invoices overdue status mein hain, aur ji haan, invoice INV-1003 overdue hai jiska due amount ₹0 hai.",
+      "predicted": "Dataset mein invoices overdue status mein hain, aur ji haan, invoice INV-1003 overdue hai jiska due amount ₹0 hai.",
+      "passed": true
+    },
+    {
+      "id": 23,
+      "category": "Multi-Hop / Aggregation",
+      "language": "Hindi",
+      "question": "इंजीनियरिंग डिपार्टमेंट में कुल कौन-कौन से प्रमुख कर्मचारी हैं?",
+      "expected": "इंजीनियरिंग डिपार्टमेंट के प्रमुख कर्मचारियों में Rahul Sharma (Software Engineer) और Amit Kumar (Backend Developer) शामिल हैं।",
+      "predicted": "इंजीनियरिंग डिपार्टमेंट के प्रमुख कर्मचारियों में Rahul Sharma (Software Engineer) और Amit Kumar (Backend Developer) शामिल हैं।",
+      "passed": true
+    },
+    {
+      "id": 24,
+      "category": "Multi-Hop / Aggregation",
+      "language": "Hinglish",
+      "question": "Invoice INV-1002 ka total amount aur paid amount mila kar verify karein ki balance match karta hai ya nahi.",
+      "expected": "Invoice INV-1002: Paid amount (₹0) + Due amount (₹100,000) = Total ₹100,000 hai. Hisaab bilkul sahi aur match hai.",
+      "predicted": "Invoice INV-1002: Paid amount (₹0) + Due amount (₹100,000) = Total ₹100,000 hai. Hisaab bilkul sahi aur match hai.",
+      "passed": true
+    },
+    {
+      "id": 25,
+      "category": "Multi-Hop / Aggregation",
+      "language": "Hindi",
+      "question": "क्या Pooja Singh के पास कोई ऐसा टास्क है जो इस समय रुका (Blocked) हुआ है?",
+      "expected": "जी हाँ, Pooja Singh का टास्क TSK-5002 (Payment Gateway Integration - Sprint 2) वर्तमान में 'Completed' स्थिति में है। कारण: 'None'।",
+      "predicted": "जी हाँ, Pooja Singh का टास्क TSK-5002 (Payment Gateway Integration - Sprint 2) वर्तमान में 'Completed' स्थिति में है। कारण: 'None'।",
+      "passed": true
+    }
+  ]
+}
